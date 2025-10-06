@@ -8,7 +8,7 @@
     "test": "npx mocha test/",
     "test-report": "mocha --reporter mocha-junit-reporter --reporter-options mochaFile=./test-results.xml"
   },
-  "author": "Jordan Kasper",
+  "author": "Cristian Flores",
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.4.1",
@@ -18,3 +18,4 @@
     "superagent": "^1.4.0"
   }
 }
+
